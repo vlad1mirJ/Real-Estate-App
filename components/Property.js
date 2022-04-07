@@ -30,6 +30,7 @@ export default function Property({
         paddingTop="0"
         justifyContent="flex-start"
         cursor="pointer"
+        paddingX={"15px"}
       >
         <Box>
           <Image
